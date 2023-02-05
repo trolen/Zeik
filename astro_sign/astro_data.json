@@ -1,0 +1,86 @@
+{
+  "aries": [
+    3,
+    21,
+    4,
+    19,
+    "eager, dynamic, quick, and competitive"
+  ],
+  "taurus": [
+    4,
+    20,
+    5,
+    20,
+    "strong, dependable, sensual, and creative"
+  ],
+  "gemini": [
+    5,
+    21,
+    6,
+    20,
+    "versatile, expressive, curious, and kind"
+  ],
+  "cancer": [
+    6,
+    21,
+    7,
+    22,
+    "intuitive, sentimental, compassionate, and protective"
+  ],
+  "leo": [
+    7,
+    23,
+    8,
+    22,
+    "dramatic, outgoing, fiery, and self-assured"
+  ],
+  "virgo": [
+    8,
+    23,
+    9,
+    22,
+    "practical, loyal, gentle, and analytical"
+  ],
+  "libra": [
+    9,
+    23,
+    10,
+    22,
+    "social, fair-minded, diplomatic, and gracious"
+  ],
+  "scorpio": [
+    10,
+    23,
+    11,
+    21,
+    "passionate, stubborn, resourceful, and brave"
+  ],
+  "sagittarius": [
+    11,
+    22,
+    12,
+    21,
+    "extroverted, optimistic, funny, and generous"
+  ],
+  "capricorn": [
+    12,
+    22,
+    1,
+    19,
+    "serious, independent, disciplined, and tenacious"
+  ],
+  "aquarius": [
+    1,
+    20,
+    2,
+    18,
+    "deep, imaginative, original, and uncompromising"
+  ],
+  "pisces": [
+    2,
+    19,
+    3,
+    20,
+    "affectionate, empathetic, wise, and artistic"
+  ]
+}
