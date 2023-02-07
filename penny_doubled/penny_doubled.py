@@ -27,7 +27,7 @@ def main():
     show_transactions(num_days)
     print('------------------')
     result = .01 * (2 ** (num_days - 1))
-    print('Doubling one penny for ' + str(num_days) + ' days -> ' + str(result))
+    print('Doubling one penny for', num_days, 'days ->', result)
 
 
 if __name__ == '__main__':
